@@ -15,7 +15,7 @@
       - [Fundamental Approach](#fundamental-approach-1)
       - [Application](#application-1)
     - [Archiecture](#archiecture)
-    - [Acknowledgement](#acknowledgement)
+  - [Acknowledgement](#acknowledgement)
 
 ---
 
@@ -94,7 +94,7 @@ This section focuses on the fundamental approach and the applications by trainin
 | [Large Concept Models: Language modeling in a sentence representation space](https://arxiv.org/abs/2412.08821)  | arXiv | 2024 | [Official](https://github.com/facebookresearch/large_concept_model) | LCM         |
 | [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)                   | arXiv | 2024 | [Official](https://github.com/facebookresearch/blt)                 | BLT         |
 
-### Acknowledgement
+## Acknowledgement
 
 Thanks to the following repositories:
 
